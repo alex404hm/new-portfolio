@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /index.html
+
+Sitemap: https://alexander-holm.com/sitemap.xml
